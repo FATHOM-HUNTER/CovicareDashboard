@@ -1,4 +1,4 @@
-# CovicareDashboar
+# CovicareDashboard
 # COVID-19 Dashboard README
 
 ## Overview
