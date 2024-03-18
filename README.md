@@ -9,7 +9,6 @@ This Power BI dashboard provides an interactive visualization of COVID-19 data s
 
 - **Interactive Visualizations**: Users can explore COVID-19 data through dynamic charts, graphs, and maps.
 - **Multiple Data Perspectives**: The dashboard offers insights from various angles, including daily trends, geographical distribution, and comparison between regions.
-- **Data Refresh**: The data is regularly updated to reflect the latest information available, ensuring users have access to current statistics.
 - **Filtering Options**: Users can filter data based on parameters such as date range, geographic location, and specific metrics.
 - **User-Friendly Interface**: The dashboard is designed to be intuitive and easy to navigate, allowing users to quickly find the information they need.
 
