@@ -30,4 +30,9 @@ The data used in this dashboard is sourced from reputable public health organiza
 - Centers for Disease Control and Prevention (CDC)
 - Other reliable governmental and non-governmental sources
 
+Dasboard Screenshot:
+![image](https://github.com/FATHOM-HUNTER/CovicareDashboard/assets/88205680/be20a760-c8f3-4795-aa38-c91c3d9d2542)
+![image](https://github.com/FATHOM-HUNTER/CovicareDashboard/assets/88205680/8ea9f60d-b6fb-42e0-ba9d-c5a1ab6e4ed6)
+![image](https://github.com/FATHOM-HUNTER/CovicareDashboard/assets/88205680/2af046d4-0556-461d-bc2e-6df4f80aabc4)
+
 **Disclaimer:** This dashboard is intended for informational purposes only and should not be used as a primary source for making critical decisions. Always refer to official public health advisories and guidelines for the most accurate and up-to-date information on COVID-19.
